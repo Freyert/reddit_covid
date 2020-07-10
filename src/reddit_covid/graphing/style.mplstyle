@@ -1,5 +1,15 @@
+axes.grid: False
+axes.spines.left: True  ## display axis spines
+axes.spines.bottom: True
+axes.spines.top: False
+axes.spines.right: False
+
 xtick.top: False
 xtick.bottom: False
-xtick.labelbottom: False
+xtick.labelbottom: True
+
 ytick.labelleft: True
 ytick.labelright: False
+ytick.major.size: 0
+
+figure.figsize: 4, 3
